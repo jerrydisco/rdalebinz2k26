@@ -1,0 +1,16 @@
+{
+  "short_name": "BinDay",
+  "name": "Rochdale Bin Tracker",
+  "icons": [
+    {
+      "src": "./images/binicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#007bff",
+  "background_color": "#ffffff"
+}
